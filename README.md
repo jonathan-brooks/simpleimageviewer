@@ -8,4 +8,6 @@ SimpleImageViewer has been setup as an executable JAR file located at:
 
 https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/out/artifacts/simplewindowframe_jar/simplewindowframe.jar
 
-The source is available for reference
+The source is located at:
+
+https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/src/JFX_PACKAGE/main.java
