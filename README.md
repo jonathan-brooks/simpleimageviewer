@@ -4,10 +4,5 @@ Displays a PNG or JPG image file without any UI other than a simple border. Menu
 
 ## Executable JAR and Source Code
 
-SimpleImageViewer has been setup as an executable JAR file:
-
-https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/out/artifacts/simplewindowframe_jar/simplewindowframe.jar
-
-Source Code:
-
-https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/src/JFX_PACKAGE/main.java
+SimpleImageViewer has been setup as an executable [JAR](https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/out/artifacts/simplewindowframe_jar/simplewindowframe.jar) file.  
+[Source Code](https://github.com/techmetal/simpleimageviewer/blob/master/simplewindowframe/src/JFX_PACKAGE/main.java)
